@@ -1,0 +1,514 @@
+[
+  {
+    "name": "Coll\u00e8ge Tanguy Prigent",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8461196,
+      "latitude": 48.5764051
+    }
+  },
+  {
+    "name": "Coll\u00e8ge Pierre Mend\u00e8s France",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8194181,
+      "latitude": 48.5837746
+    }
+  },
+  {
+    "name": "Coll\u00e8ge des deux Baies",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.9142189,
+      "latitude": 48.6627614
+    }
+  },
+  {
+    "name": "Coll\u00e8ge Le Ch\u00e2teau",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8254661,
+      "latitude": 48.5742694
+    }
+  },
+  {
+    "name": "Coll\u00e8ge Saint-Joseph",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8242216,
+      "latitude": 48.5729157
+    }
+  },
+  {
+    "name": "Coll\u00e8ge Saint Augustin",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8380066,
+      "latitude": 48.5744779
+    }
+  },
+  {
+    "name": "Coll\u00e8ge Sainte-Marie",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.9432077,
+      "latitude": 48.5179375
+    }
+  },
+  {
+    "name": "Coll\u00e8ge des Monts d'Arr\u00e9e",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8884156,
+      "latitude": 48.4403421
+    }
+  },
+  {
+    "name": "Coll\u00e8ge Les Quatre Vents",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7170267,
+      "latitude": 48.6426142
+    }
+  },
+  {
+    "name": "Lyc\u00e9e Tristan Corbi\u00e8re et 3\u00e8me\u00a0Pr\u00e9pa",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8218532,
+      "latitude": 48.5691179
+    }
+  },
+  {
+    "name": "Coll\u00e8ge Roz Avel",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.5925144,
+      "latitude": 48.5163521
+    }
+  },
+  {
+    "name": "Coll\u00e8ge Fran\u00e7ois Charles",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7933291,
+      "latitude": 48.6944589
+    }
+  },
+  {
+    "name": "Lyc\u00e9e du Porsmeur",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8342762,
+      "latitude": 48.5754166
+    }
+  },
+  {
+    "name": "Pump Park",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.872402,
+      "latitude": 48.511963
+    }
+  },
+  {
+    "name": "City Saint-Martin-des-Champs",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8459493,
+      "latitude": 48.5707706
+    }
+  },
+  {
+    "name": "Basket et tennis",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8718966,
+      "latitude": 48.511119
+    }
+  },
+  {
+    "name": "Plage du Kelenn",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.9101473,
+      "latitude": 48.6697729
+    }
+  },
+  {
+    "name": "Terrain sable",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.9090151,
+      "latitude": 48.668881
+    }
+  },
+  {
+    "name": "Skate Park Morlaix",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8189381,
+      "latitude": 48.5857178
+    }
+  },
+  {
+    "name": "Skate park Plourin les Morlaix",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7837744,
+      "latitude": 48.5320778
+    }
+  },
+  {
+    "name": "Pump Park Taul\u00e9",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8962128,
+      "latitude": 48.6032238
+    }
+  },
+  {
+    "name": "City Taul\u00e9",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8964006,
+      "latitude": 48.6029392
+    }
+  },
+  {
+    "name": "City Plougonven",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7128833,
+      "latitude": 48.5205178
+    }
+  },
+  {
+    "name": "Aire de jeux - Pump park Locqu\u00e9nol\u00e9",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8580024,
+      "latitude": 48.6252214
+    }
+  },
+  {
+    "name": "City - skate park Plouigneau",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.6941269,
+      "latitude": 48.5667728
+    }
+  },
+  {
+    "name": "Aire de jeux Lanmeur",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7190888,
+      "latitude": 48.6485819
+    }
+  },
+  {
+    "name": "Carantec - Local Jeunes",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.9128297,
+      "latitude": 48.6675128
+    }
+  },
+  {
+    "name": "Henvic - Espaces Jeunes",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.9294813,
+      "latitude": 48.6346614
+    }
+  },
+  {
+    "name": "Lanmeur - ULAMIR",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7157391,
+      "latitude": 48.6433388
+    }
+  },
+  {
+    "name": "Morlaix - MAJ",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8158158,
+      "latitude": 48.588502
+    }
+  },
+  {
+    "name": "Morlaix - MJC",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8248439,
+      "latitude": 48.5759014
+    }
+  },
+  {
+    "name": "Pleyber Christ - Porz Ruz",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8735962,
+      "latitude": 48.5049017
+    }
+  },
+  {
+    "name": "Plougasnou - Ker Avel",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8069833,
+      "latitude": 48.7112026
+    }
+  },
+  {
+    "name": "Plouigneau - Relais des jeunes",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7018633,
+      "latitude": 48.5649563
+    }
+  },
+  {
+    "name": "Plouneour-Menez - Ti Gwer",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8901023,
+      "latitude": 48.4399627
+    }
+  },
+  {
+    "name": "Plourin les Morlaix - Ti An Oll",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7888085,
+      "latitude": 48.5365835
+    }
+  },
+  {
+    "name": "Saint Th\u00e9gonnec - Ti Ar Re Yaouank",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.94549,
+      "latitude": 48.521324
+    }
+  },
+  {
+    "name": "Saint-Martin-des-Champs - Local jeunes",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8468706,
+      "latitude": 48.570356
+    }
+  },
+  {
+    "name": "Mairie Morlaix",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8282587,
+      "latitude": 48.5776818
+    }
+  },
+  {
+    "name": "Mairie Saint-Martin des Champs",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8439088,
+      "latitude": 48.5754557
+    }
+  },
+  {
+    "name": "Mairie Taul\u00e9",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8999238,
+      "latitude": 48.6037392
+    }
+  },
+  {
+    "name": "Mairie Lanmeur",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7154649,
+      "latitude": 48.64698
+    }
+  },
+  {
+    "name": "Mairie Plougasnou",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7900392,
+      "latitude": 48.6954258
+    }
+  },
+  {
+    "name": "Mairie Saint Th\u00e9gonnec",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.946242,
+      "latitude": 48.5212486
+    }
+  },
+  {
+    "name": "Mairie Guerlesquin",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.5875299,
+      "latitude": 48.5178981
+    }
+  },
+  {
+    "name": "Mairie Ploun\u00e9our Menez",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8913981,
+      "latitude": 48.4391653
+    }
+  },
+  {
+    "name": "Mairie Pleyber-Christ",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8752704,
+      "latitude": 48.5047845
+    }
+  },
+  {
+    "name": "Mairie Henvic",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.9274679,
+      "latitude": 48.6323958
+    }
+  },
+  {
+    "name": "Mairie Carantec",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.9138963,
+      "latitude": 48.667404
+    }
+  },
+  {
+    "name": "Mairie Plouigneau",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.701608,
+      "latitude": 48.5677312
+    }
+  },
+  {
+    "name": "Mairie Plourin-l\u00e8s-Morlaix",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7900208,
+      "latitude": 48.5350896
+    }
+  },
+  {
+    "name": "Mairie Locquirec",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.648207,
+      "latitude": 48.6909347
+    }
+  },
+  {
+    "name": "Mairie Guima\u00ebc",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7081559,
+      "latitude": 48.6677166
+    }
+  },
+  {
+    "name": "Mairie Plougonven",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7125107,
+      "latitude": 48.5209217
+    }
+  },
+  {
+    "name": "Mairie Plouezoc'h",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8221462,
+      "latitude": 48.6399974
+    }
+  },
+  {
+    "name": "Mairie Saint-S\u00e8ve",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8762663,
+      "latitude": 48.5578425
+    }
+  },
+  {
+    "name": "Mairie Saint-Jean-du-Doigt",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7725284,
+      "latitude": 48.6944122
+    }
+  },
+  {
+    "name": "Mairie Plou\u00e9gat-Moysan",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.6084875,
+      "latitude": 48.5726127
+    }
+  },
+  {
+    "name": "Mairie Plou\u00e9gat-Guerrand",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.6749675,
+      "latitude": 48.6209659
+    }
+  },
+  {
+    "name": "Mairie Garlan",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7571373,
+      "latitude": 48.6014984
+    }
+  },
+  {
+    "name": "Mairie Botsorhel",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.6412794,
+      "latitude": 48.5269342
+    }
+  },
+  {
+    "name": "Mairie Le Clo\u00eetre Saint Th\u00e9gonnec",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.7937935,
+      "latitude": 48.4794158
+    }
+  },
+  {
+    "name": "Mairie Lann\u00e9anou",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.6719006,
+      "latitude": 48.4893126
+    }
+  },
+  {
+    "name": "Mairie Locqu\u00e9nol\u00e9",
+    "description": "",
+    "coordinates": {
+      "longitude": -3.8603253,
+      "latitude": 48.6246275
+    }
+  }
+]
